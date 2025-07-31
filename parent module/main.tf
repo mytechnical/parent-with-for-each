@@ -31,3 +31,4 @@ module "virtual_network2" {
   address_space            = each.value.address_space
 }
 
+add ker rha hoon tfvars bhi
